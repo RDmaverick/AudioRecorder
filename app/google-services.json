@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2226482144",
+    "firebase_url": "https://audiorecorder-ba206.firebaseio.com",
+    "project_id": "audiorecorder-ba206",
+    "storage_bucket": "audiorecorder-ba206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2226482144:android:b847be2e0e272d09",
+        "android_client_info": {
+          "package_name": "com.example.rutwijdaptardar.audiorecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2226482144-tnp6vusklhn195q106um0de02d4odi31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rutwijdaptardar.audiorecorder",
+            "certificate_hash": "a9296bbfaa89b07711e79474fed08b0e695030f7"
+          }
+        },
+        {
+          "client_id": "2226482144-tc60sjs9qt6n24p3l92roupnik7n37ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDcGzBN7pKSFtOO6i6IwzPdDmN8Jtjb1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2226482144-tc60sjs9qt6n24p3l92roupnik7n37ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
